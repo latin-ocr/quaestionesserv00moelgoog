@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesserv00moelgoog_0007.png"; bbox 0 0 3170 5180; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 343 2037 1185 2404">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 343 2037 1185 2404">
+     <span class='ocr_line' id='line_1_1' title="bbox 484 2037 1030 2173; baseline 0.007 -5"><span class='ocrx_word' id='word_1_1' title='bbox 484 2037 833 2173; x_wconf 73' lang='lat' dir='ltr'>Parentibus</span> <span class='ocrx_word' id='word_1_2' title='bbox 881 2037 1030 2172; x_wconf 75' lang='lat' dir='ltr'>meis</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 343 2234 1185 2404; baseline -0.004 -36"><span class='ocrx_word' id='word_1_3' title='bbox 343 2234 564 2369; x_wconf 81' lang='lat' dir='ltr'>amoris</span> <span class='ocrx_word' id='word_1_4' title='bbox 611 2241 672 2366; x_wconf 77' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_5' title='bbox 716 2234 956 2404; x_wconf 76' lang='lat' dir='ltr'>pietatis</span> <span class='ocrx_word' id='word_1_6' title='bbox 1004 2273 1185 2368; x_wconf 71' lang='lat' dir='ltr'>eausa</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1590 5180">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1590 5180">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1590 5180; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1590 5180; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
